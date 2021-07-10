@@ -38,4 +38,4 @@ jobs:
           file: project/Dockerfile #./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: pixelpotato/techtrends:latest
+          tags: vishaljaiswal/techtrends:latest
